@@ -46,3 +46,5 @@ torch: This is used for deep learning and running the Wav2Vec2 model.
 
 Example Use:
 If you have an MP3 file with a person speaking (e.g., a recording of a paragraph), you can run the program, and it will print the text version of what was said in the audio
+
+OUTPUT:  ![Image](https://github.com/user-attachments/assets/c7336d77-2d6d-4e1c-9030-a04243df9943)
